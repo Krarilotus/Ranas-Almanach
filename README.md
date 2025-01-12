@@ -839,5 +839,5 @@ Bleibt auch immer auf der Hut vor neuen Tieren und Pflanzen und Gefahren, denn d
 
 **Möge euer Weg stets hell beleuchtet sein – und wenn nicht, dann leuchten euch Mondbeeren oder Glühfalter den Pfad.**  
 
-*In tiefem Respekt,  
+- In tiefem Respekt,  
 Rana
