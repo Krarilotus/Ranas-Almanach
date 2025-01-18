@@ -841,3 +841,5 @@ Bleibt auch immer auf der Hut vor neuen Tieren und Pflanzen und Gefahren, denn d
 
 *In tiefem Respekt,*  
 Rana
+
+[Karte](https://github.com/Krarilotus/Ranas-Almanach/blob/main/Taur%C3%AB-Sir%C3%ADon-Map.jpg)
