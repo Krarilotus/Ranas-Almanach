@@ -444,7 +444,7 @@ Die Wasserwelten von Taurë-Siríon, von Küsten bis Lagunen und tiefen Strömun
 
 ---
 
--  **Riesenlibelle**  
+ **Riesenlibelle**  
   Leuchtend grün oder blau mit glitzernden, halbtransparenten Flügeln, die mit magischem Staub überzogen sind. Zu finden an feuchtwarmen Ufern und nahe kleiner Wasserfälle, wo sie ihre Eier ablegen.  
   
   Mir wurde fast ein ganzer Tag vermiest, als ich unabsichtlich in eine ihrer Brutstätten gelangte. Die Mutterlibelle griff mich sofort an. Ihr Gift paralysiert kleinere Tiere und kann bei Menschen starke Lähmungen hervorrufen, ihre Beißer sind außerdem sehr gefährlich. Gut dass ich allerdings Taumelbeerensirup dabei hatte, mit dem Sie sich ablenken ließ.
@@ -574,7 +574,7 @@ Der Dschungel, die Bergpfade und Klippen von Taurë-Siríon werden von zahlreich
 
 ---
 
--  **Laubjäger**  
+**Laubjäger**  
   Ein reptilienhafter Jäger, tarnfarben wie Blätter und Rinde. Springt lautlos von Ästen, wenn sich Beute nähert, und wechselt seine Färbung binnen Sekunden.  
   
   Ich hatte Glück: Ein markerschütterndes Kreischen eines Vogels ließ mich aufhorchen. In diesem Moment sprang der Laubjäger mit toter Beute im Maul davon. Wer lärmend wandert, wird ihn wahrscheinlich eher vertreiben als zum Angriff reizen. Absolute Stille jedoch macht einen zur Zielscheibe.  
