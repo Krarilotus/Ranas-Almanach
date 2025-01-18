@@ -825,21 +825,22 @@ Der Vulkan und alle diese Felsnadeln die diese Insel überdecken sind gewachsen 
 
 # 4. Abschließende Worte  
 
-Taurë-Siríon fasziniert mich, seit ich meinen ersten Fuß auf diese Insel gesetzt habe. Doch genauso verlockend wie ihre Wunder erscheinen, genauso unheimlich sind die Schatten, die hinter dem Dickicht lauern. Ich habe mir geschworen, jedes Geheimnis zu lüften – doch in die Ruinen habe ich mich nie tiefer wagen wollen. Ich Verpürte eine unheilvolle Aura einer beunruhigenden Macht.
+Taurë-Siríon fasziniert mich, seit ich meinen ersten Fuß auf diese Insel gesetzt habe. Doch genauso verlockend, wie ihre Wunder erscheinen, so unheimlich sind die Schatten, die hinter dem Dickicht lauern. Ich habe mir geschworen, jedes Geheimnis zu lüften – doch in die Ruinen habe ich mich nie tiefer wagen wollen. Ich verspürte eine unheilvolle Aura, eine beunruhigende Macht.
 
-Die Inschriften die ich entschlüssel konnte verwiesen auf einige Pflanzen und Tiere dich ich selbst auch beobachten konnte aber ich vermute auch, dass etwas auf einen **dunklen Fluch** hinwies, der jede Seele bindet, die versucht, sein Geheimnis zu ergründen. Tatsächlich begegnete ich dort **untoten Kreaturen** – wandelnde Skelette, scheinbar von magischen Gewächsen durchwuchert. Ich habe den Tempel fluchtartig verlassen und mir vorgenommen, den tieferen Kern der Ruinen nicht erneut aufzusuchen.  
+Die Inschriften, die ich entschlüsseln konnte, verwiesen auf einige Pflanzen und Tiere, die ich selbst beobachtet habe. Doch ich vermute auch, dass sie auf einen **dunklen Fluch** hinwiesen, der jede Seele bindet, die versucht, sein Geheimnis zu ergründen. Tatsächlich begegnete ich dort **untoten Kreaturen** – wandelnden Skeletten, scheinbar von magischen Gewächsen durchwuchert. Ich habe den Tempel fluchtartig verlassen und mir vorgenommen, den tieferen Kern der Ruinen nicht erneut aufzusuchen.  
 
 So sehr die **Magie** dieser Insel lockt, so sehr warne ich jeden Abenteurer davor, sie zu sehr zu hinterfragen. Die Energien auf Taurë-Siríon gehorchen eigenen Gesetzen, und wer versucht, sie in voller Gier zu bändigen, könnte unheilvolle Mächte entfesseln.  
 
-Zuletzt spüre ich, wie ein Teil der Insel mich nicht mehr gehen lässt, und immer wenn ich ans Festland zu meiner Tochter ging, hat es mich zurück auf die Insel gezogen. Ich habe das Gefühl, an Taurë-Siríon gebunden zu sein. Vielleicht ist es dieser Fluch, von dem die Ruinen raunen, oder es ist der Zauber dieser einzigartigen Natur. Und sobald ich auf ein Boot steigen will, um heimzukehren, ergreift mich eine unbeschreibliche Sehnsucht – und ich bleibe doch länger, trotz meiner Tochter Lira, der ich Wünsche sich nie auf die Insel einzulassen und ihr fernzubleiben. So schreibe ich weiter an diesem Almanach, hoffend, dass jemand kommt, der die Insel eines Tages erlöst oder mich von meinem Bann befreit.
+Zuletzt spüre ich, wie ein Teil der Insel mich nicht mehr gehen lässt, und immer wenn ich ans Festland zu meiner Tochter ging, zog es mich zurück auf die Insel. Ich habe das Gefühl, an Taurë-Siríon gebunden zu sein. Vielleicht ist es dieser Fluch, von dem die Ruinen raunen, oder es ist der Zauber dieser einzigartigen Natur. Und sobald ich auf ein Boot steigen will, um heimzukehren, ergreift mich eine unbeschreibliche Sehnsucht – und ich bleibe doch länger, trotz meiner Tochter Lira, der ich wünsche, sich nie auf die Insel einzulassen und ihr fernzubleiben. So schreibe ich weiter an diesem Almanach, in der Hoffnung, dass jemand kommt, der die Insel eines Tages erlöst oder mich von meinem Bann befreit.
 
 Meine Lesenden, seid wachsam, tretet respektvoll auf und lasst euch nicht von der Neugier ins Verderben ziehen. Reist durch Taurë-Siríon mit offenen Augen und einem offenen Herzen – so kann euch die Insel viel schenken. Doch betretet die alten Ruinen nur mit Bedacht … oder vielleicht gar nicht.  
 
-Bleibt auch immer auf der Hut vor neuen Tieren und Pflanzen und Gefahren, denn die Insel ist in stetem Wandel und es wird nie möglich sein eine umfassende Liste aller Arten niederzulegen, da sich ständig neue hervortun.
+Bleibt auch immer auf der Hut vor neuen Tieren, Pflanzen und Gefahren, denn die Insel ist in stetem Wandel, und es wird nie möglich sein, eine umfassende Liste aller Arten niederzulegen, da sich ständig neue hervortun.
+
 
 **Möge euer Weg stets hell beleuchtet sein – und wenn nicht, dann leuchten euch Mondbeeren oder Glühfalter den Pfad.**  
 
 *In tiefem Respekt,*  
 Rana
 
-[Karte](https://github.com/Krarilotus/Ranas-Almanach/blob/main/Taur%C3%AB-Sir%C3%ADon-Map.jpg)
+![Karte](https://github.com/Krarilotus/Ranas-Almanach/blob/main/Taur%C3%AB-Sir%C3%ADon-Map.jpg)
