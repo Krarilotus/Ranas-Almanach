@@ -18,6 +18,7 @@ Möget ihr mit diesem Werk sicher reisen, euch inspirieren lassen und nicht zule
 ---
 
 # Inhaltsverzeichnis  
+- [Taurë-Siríon eine umfassende Studie](#taurë-siríon-eine-umfassende-studie)
 - [Widmung](#widmung)
 - [Vorwort](#vorwort)
 - [Inhaltsverzeichnis](#inhaltsverzeichnis)
@@ -712,6 +713,13 @@ Die heißen Hänge des Vulkans und die nahe gelegenen Ascheebenen beheimaten Ges
   Ein großer Vogel mit tiefschwarzem Gefieder, das im Sonnenlicht glitzert wie Teer. Sein Schnabel und seine Krallen sind erstaunlich hitzebeständig, sodass er mühelos Lavasteine umhertragen kann.  
 
   Ein Nest dieses Raben beherbergte mehrere seltsam verformte Lavabrocken. Ich vermute, der Kohlerabe nutzt sie, um Feinde abzuwerfen oder um an versteckte Insekten und Würmer im Erdreich zu gelangen. Wer ihm zu nahe kommt, erntet lautes Krächzen und Angriffe mit dem Schnabel.
+
+---
+
+**Steinbock**
+  Kräftige, gebirgige Ziegen mit imposanten, gebogenen Hörnern. Dank ihres dichten Fells trotzen sie Kälte und erklimmen mühelos selbst steile Klippen rund um den Vulkan. Sie sind äußerst wachsam und fliehen panisch, wenn sie Erdbeben wittern – ein zuverlässiges “Frühwarnsystem” in den Bergregionen.
+
+  Ich erkannte ihren Nutzen, als ich einst in einer Schlucht umherstreifte und sie plötzlich losstürmten. Kurz darauf bebte die Erde unter meinen Füßen – hätte ich nicht ihre Flucht bemerkt, wäre ich wohl verschüttet worden.
 
 ---
 
